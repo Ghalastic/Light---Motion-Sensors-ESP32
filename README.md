@@ -1,1 +1,1 @@
-# Light---Motion-Sensors-ESP32
+# Light and Motion Sensors using ESP32
