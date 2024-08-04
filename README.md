@@ -26,7 +26,7 @@ Wokwi
 4- Photoresistor (LDR) Sensor  
 5- Relay Module  
 #### 
-### Connections:
+### Make the Connections:
 #### LED:
 #### 
 1- A pin to the NO pin of the Relay Module  
