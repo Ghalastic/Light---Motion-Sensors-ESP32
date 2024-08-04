@@ -20,11 +20,11 @@ Wokwi
 #### 
 ### Gather Components:
 #### 
-1- LED
-2- ESP32
-3- PIR Motion Sensor
-4- Photoresistor (LDR) Sensor
-5- Relay Module
+1- LED   
+2- ESP32  
+3- PIR Motion Sensor  
+4- Photoresistor (LDR) Sensor  
+5- Relay Module  
 #### 
 ### Connections:
 #### LED:
