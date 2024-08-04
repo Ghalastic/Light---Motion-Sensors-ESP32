@@ -1,4 +1,4 @@
-# Light and Motion Sensors using ESP32
+# Light and Motion Sensors with ESP32
 #### 
 ## Task Description:-
 #### 
