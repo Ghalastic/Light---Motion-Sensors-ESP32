@@ -7,7 +7,7 @@
 
 const char* ssid = "Wokwi-GUEST";
 const char* password = "";
-const char* serverName = "http://your_server_ip/insert_data.php";
+const char* serverName = "http://your_server_IP/insert_data.php"; \\ replace "your_server_ip" with the device's IP address, something like "192.168.1.100"
 
 void setup() {
   pinMode(PIR_PIN, INPUT);
