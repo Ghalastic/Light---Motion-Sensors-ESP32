@@ -15,7 +15,7 @@ Wokwi
 #### 
 ### Duration:
 1 day
-#### 
+##
 ## Step-by-Step Guide:-
 #### 
 ### Gather Components:
@@ -52,9 +52,9 @@ Wokwi
 4- COM pin on the Relay Module to the 5V pin on the ESP32   
 #### 
 ### Write the Code
-#### 
+## 
 ### Illustrations:
-#### 
+##
 #### Version 1 - No Server, Not Connected to a Database
 #### 
 [Version 1](https://github.com/user-attachments/assets/11d77cd1-b49d-43d2-9506-19fba4d2ca61)
@@ -62,7 +62,7 @@ Wokwi
 #### Version 2 - With a Server (IP Address), Connected to a Database
 #### 
 [Version 2](https://github.com/user-attachments/assets/6551877b-a9ee-4182-bb0e-b390341b73d0)
-#### 
+##
 ### Link:
 [Light and Motion Sensors ESP32 Project](https://wokwi.com/projects/404743228762044417)
-#### 
+##
