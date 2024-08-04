@@ -8,6 +8,8 @@ Use ESP32 with light and motion sensors and connect the light and motion sensors
 - When there's no light nor there's movement, the bulb is closed
 - When there's a light but there's no movement, the bulb is closed
 #### 
+![‏‏لقطة الشاشة (2230)](https://github.com/user-attachments/assets/34dba6cc-d4e1-4c55-abfb-45533a2f8ddf)
+#### 
 ### Program:
 Wokwi
 #### 
@@ -51,4 +53,14 @@ Wokwi
 4- COM pin on the Relay Module to the 5V pin on the ESP32   
 #### 
 ### Write the Code
+#### 
+### Illustrations:
+#### 
+#### Version 1 - No Server, Not Connected to a Database
+#### 
+[Version 1](https://github.com/user-attachments/assets/11d77cd1-b49d-43d2-9506-19fba4d2ca61)
+#### 
+#### Version 2 - With a Server (IP Address), Connected to a Database
+#### 
+[Version 2](https://github.com/user-attachments/assets/6551877b-a9ee-4182-bb0e-b390341b73d0)
 #### 
