@@ -9,13 +9,13 @@ Use ESP32 with light and motion sensors and connect the light and motion sensors
 - When there's a light but there's no movement, the bulb is closed
 ## 
 ![‏‏لقطة الشاشة (2230)](https://github.com/user-attachments/assets/34dba6cc-d4e1-4c55-abfb-45533a2f8ddf)
-##
+## 
 ### Program:
 Wokwi
 #### 
 ### Duration:
 1 day
-##
+## 
 ## Step-by-Step Guide:-
 #### 
 ### Gather Components:
