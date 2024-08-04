@@ -16,7 +16,6 @@ Wokwi
 ### Duration:
 1 day
 #### 
-[Wokwi ESP32 Project](https://wokwi.com/projects/404743228762044417)
 ## Step-by-Step Guide:-
 #### 
 ### Gather Components:
@@ -63,4 +62,7 @@ Wokwi
 #### Version 2 - With a Server (IP Address), Connected to a Database
 #### 
 [Version 2](https://github.com/user-attachments/assets/6551877b-a9ee-4182-bb0e-b390341b73d0)
+#### 
+### Link:
+[Light and Motion Sensors ESP32 Project](https://wokwi.com/projects/404743228762044417)
 #### 
